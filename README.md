@@ -12,7 +12,7 @@ Feel free to connect with me on LinkedIn
 
 
 # Projects 
-[Threat Event (Unauthorized TOR Usage)]([Threat-Hunting](https://github.com/kdee028/Flash028/blob/main/Threat-Hunting))
+[Threat Event (Unauthorized TOR Usage)](https://github.com/kdee028/Flash028/blob/main/Threat-Hunting)
 - Description: 
 - Technologies
 
