@@ -26,7 +26,7 @@ Feel free to connect with me on LinkedIn
 - Technologies:SAML 2.0, SSO, MFA, RBAC, SCIM, Policy Creation
 
 
-[Cyberark PAM](CyberArk)
+[Cyberark PAM](Cyberark/Cyberark.md)
 - Description:Implemented CyberArk solutions for secure privileged access managment including user onboarding,session monitoring and policy configuration.
 - Technologies:Vault,PSM,CPM,LDAP, Active Directory
 
