@@ -27,7 +27,7 @@ Feel free to connect with me on LinkedIn
 
 
 [Cyberark PAM](CyberArk)
-- Description:Implemented CyberArk solutions for secure privileged acces managmeent including user onboarding,session monitoring and policy configuration.
+- Description:Implemented CyberArk solutions for secure privileged access managment including user onboarding,session monitoring and policy configuration.
 - Technologies:Vault,PSM,CPM,LDAP, Active Directory
 
 
