@@ -57,7 +57,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadijah-
 ## 🌱 What I’m Currently Learning  
 - Advanced threat hunting techniques  
 - Cloud security best practices (AWS, Azure)  
-- Automation with Python and PowerShell  
+- Automation with Python and PowerShell
+- IAM tools ( CyberArk, Sailpoint)
 
 ---
 
