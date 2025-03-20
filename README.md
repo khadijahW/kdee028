@@ -24,7 +24,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khadijah-
 - **Description**: Conducted static code analysis and vulnerability scanning using SonarQube and Snyk.  
 - **Technologies**: SonarQube, Snyk, Node.js.  
 
-### 🔐 [Okta Identity and Access Management](https://github.com/khadijahW/Flash028/blob/226a571bce421dd420b28b3ea954d7f3a94f3c47/Okta/Okta.md)
+### 🔐 [Okta Identity and Access Management](Okta/Okta.md)
 - **Description**: Implemented Okta features such as user creation, authentication policies, and Org-to-Org integration.  
 - **Technologies**: SAML 2.0, SSO, MFA, RBAC, SCIM, Policy Creation.  
 
